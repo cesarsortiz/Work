@@ -1,0 +1,23 @@
+Li {color: red;background-color: rgb(19, 4, 4);}  
+
+    h3{font-size: 3rem;color: blueviolet;}
+    
+    h1{border: thick double green;}
+    
+    h3{border: thick double pink}
+    
+    .red{color: rgb(41, 46, 44);}
+    
+    li {list-style-type: none;border: 1px solid red; margin-top: 2rem;padding: 0%;}
+    
+    lib{color: aqua;background-color: bisque; margin-top: 2rem;padding: 0%;}
+    
+    .center{text-align: center;}
+    
+    h1{background-color: brown; text-align: center; padding: 2rem;}
+    
+    body{margin: 0%;}
+    
+    h3{background-color: blue; text-align: center;padding: 2rem;}
+
+    h1:hover{color: blueviolet; transition-duration: 0.2s; margin-right: 50%;}
